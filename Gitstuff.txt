@@ -1,0 +1,13 @@
+Git Commands for use commiting, cloning, and pushing
+
+Git clone url
+Git status
+Cd RepositoryName
+Git commit filename.ext -m "Message"
+Git add filename
+Git push origin master
+
+	insert username
+	insert password
+
+	
